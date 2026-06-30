@@ -1,0 +1,2 @@
+# dabdbe0e3458c2ce-cybersecurity-survey-and-feedb
+Stop context-switching away from your editor to look things up. Start instant insights without breaking your focus.  Integrates seamlessly into your VS Code workflow — keyboard shortcuts included. Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces.  ## What's Included  - Cybersecurity Survey And Feedback Collection — fully confi
